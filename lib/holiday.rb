@@ -122,12 +122,12 @@ holiday_hash.each |season, holiday| do
     if supplies.include? "BBQ"
       matches << holiday
     end
-    
+
   end
-  
+
 end
 matches
 end
-  
+
 
 end
