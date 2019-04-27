@@ -87,7 +87,7 @@ def all_supplies_in_holidays(holiday_hash)
       if holiday.to_s.split(" ") == holiday.to_s
         puts "  #{holiday.to_s.capitalize}: "
   end
-
+end
 end
 
 def all_holidays_with_bbq(holiday_hash)
