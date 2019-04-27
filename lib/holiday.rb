@@ -128,5 +128,3 @@ holiday_hash.each do |season, holiday|
 end
 matches
 end
-
-
